@@ -3,7 +3,9 @@ A home for the latest discoveries unearthed along my delve into tech
 
 April 6th, 2018
 - 	Delta &#916; has two meanings; difference and discriminant. Difference is simply the absolute value between two values, discriminant is the number of possible solutions a quadratic formula has.
-- Execution order of Java for loops: <code>for(<i>initialization, termination, increment</i>) <n><i>statement</i>}</code>
+- Execution order of Java for loops: <code>for(<i>initialization, termination, increment</i>) {
+ <t><t><t><t><i>statement</i>
+  }</code>
  declare and initialize (1x at beginning of execution), execute statements within loop block, check if termination code returns 'true', increment iterator. 
 
 March 30th, 2018
